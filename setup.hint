@@ -1,0 +1,8 @@
+category: Perl
+requires: cygwin perl perl-HTML-TableExtract perl-libwww-perl
+sdesc: "Perl module for retrieving stock quotes from the internet"
+ldesc: "This module gets time-delayed stock quotes from various internet
+sources, including Yahoo! Finance, Fidelity Investments, and the
+Australian Stock Exchange.  There are two methods of using this module
+-- a functional interface that is depreciated, and an object-orientated
+method that provides greater flexibility and stability."
