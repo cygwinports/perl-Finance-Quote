@@ -1,0 +1,15 @@
+CPAN_AUTHOR=ecocode
+inherit perl
+
+NAME="perl-Finance-Quote"
+VERSION=1.18
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl module for retrieving stock quotes from the internet"
+DESCRIPTION="This module gets time-delayed stock quotes from various internet
+sources, including Yahoo! Finance, Fidelity Investments, and the
+Australian Stock Exchange.  There are two methods of using this module
+-- a functional interface that is depreciated, and an object-orientated
+method that provides greater flexibility and stability."
+
+DIFF_EXCLUDES="MYMETA.*"
